@@ -8,8 +8,8 @@
 		
 		contactLink.addEventListener("click", function () {
 			
-			var emailDomain = "pixiapps.com";
-			var emailReceiver = "support";
+			var emailDomain = "juliensagot.fr";
+			var emailReceiver = "contact";
 			contactLink.setAttribute("href", "mailto:" + emailReceiver + "@" + emailDomain);
 			
 		}, false);
